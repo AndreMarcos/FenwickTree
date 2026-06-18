@@ -29,12 +29,6 @@ gcc -O2 -Wall -o benchmark benchmark.c
 Testa n = 1.000, 10.000, 50.000 e 100.000, tira a média de várias repetições
 e gera o arquivo `benchmark.csv`.
 
-### Gerar as imagens (opcional)
-Requer Python 3 + matplotlib (já há um venv na pasta):
-```bash
-.venv/bin/python gerar_imagens.py
-```
-
 ---
 
 ## Operações implementadas
